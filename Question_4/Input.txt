@@ -1,0 +1,9 @@
+// Computational domain from X_l to X_u: (n*pi): n is 
+// X_l
+0
+// n
+2
+// Alpha:
+1.5
+// End Time (t_end): 
+0.4

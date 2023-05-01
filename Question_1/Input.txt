@@ -1,0 +1,25 @@
+// Computational domain:
+// x_l <= x <= x_u
+// x_l
+2
+//x_u
+3
+// y_l <= y <= y_u
+// y_l
+4
+//y_u
+6
+// Number of grid points:
+// Number of grid points along x-direction: (Nx)
+64
+// Number of grid points along y-direction: (Ny)
+128
+// Boundary Conditions:
+// T_L = T (x_l, y) 
+30
+// T_R = T (x_u, y)
+60
+// d_T_D = dT/dy (x, y_l) (This is a partial derivative with respect to y)
+0
+// d_T_U_a = dT /dy(x, y_u) = (T (x, y_u) − a), where a is (This is a partial derivative with respect to y)
+60
